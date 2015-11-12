@@ -1,0 +1,12 @@
+Como funciona o package system e como funciona o que eu acabei de criar, o que o código procura quando escrevo var prompt = require('prompt');(se procura package.json, o folder, o .js)
+
+Como funciona o interpretador Node, ao escrever errado o código ele executuou tanto o método get do prompt quanto o resto do código, o interpretador criou um thread sozinho para o método executado?
+
+O que quer dizer callback síncrono
+
+Dentro da função chamada, qual a diferença de ter um return ou não, return marca o fim da execução da função? as functions roots no json no caso não são callback, certo? new Error encerra a função depois da execução do callback ou ela continua executando( é o que eu imagino), e sintax de new do js.
+
+Para o interpretador, o callback é executado e então retorna para a função que o chamou? (que no caso da última linha, volta para encontrar o return que finaliza a execução da função)
+
+Como usar diff do git e como o git se comportará caso eu copie na mão um repositório todo para fazer teste no principal? e o que significa HEAD? master no caso é o branch principal, e o HEAD é a junção de todos branchs?
+No git original se adiciona pra depois se fazer o commit, diferente do CVS?

@@ -1,0 +1,22 @@
+{
+  "name": "quadsolver",
+  "version": "1.0.0",
+  "description": "A simple quadratic solver",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodgobbi/conFusion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodgobbi/conFusion/issues"
+  },
+  "homepage": "https://github.com/rodgobbi/conFusion#readme",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
