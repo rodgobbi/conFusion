@@ -1,0 +1,6 @@
+Lembrar de instalar o LESS compiler
+sudo npm install -g less
+
+sudo npm install -g bower
+bower install bootstrap -S
+bower install font-awesome -S
